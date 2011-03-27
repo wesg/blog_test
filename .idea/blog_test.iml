@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="RailsFacetType" name="Ruby on Rails">
+      <configuration>
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_SUPPORT_REMOVED" VALUE="false" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_TESTS_SOURCES_PATCHED" VALUE="true" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="GemRequirementsHolder" version="3">
+    <requirement>
+      <requirement>
+        <dependency name="abstract" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="actionmailer" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="actionpack" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="activemodel" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="activerecord" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="activeresource" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="activesupport" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="arel" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="builder" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="bundler" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="erubis" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="i18n" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="mail" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="mime-types" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="polyglot" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rack" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rack-mount" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rack-test" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rails" version="3.0.4" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rails" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="railties" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rake" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="sqlite3" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="sqlite3-ruby" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="thor" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="treetop" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="tzinfo" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="will_paginate" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source manual="true" />
+    </requirement>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] arel (v2.0.9, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/arel-2.0.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] actionmailer (v3.0.5, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/actionmailer-3.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] actionpack (v3.0.5, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activemodel (v3.0.5, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/activemodel-3.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activerecord (v3.0.5, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/activerecord-3.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activeresource (v3.0.5, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/activeresource-3.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v3.0.5, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rails (v3.0.5, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/rails-3.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] railties (v3.0.5, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/railties-3.0.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] will_paginate (v3.0.pre2, /Users/wesleygorman/.rvm/gems/ruby-1.9.2-p180/gems/will_paginate-3.0.pre2)" level="application" />
+  </component>
+</module>
+
